@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55e2ba89-2954-4c22-80ef-a148835d9f90": {
+      "ProjectGuid": "55e2ba89-2954-4c22-80ef-a148835d9f90",
+      "DisplayName": "O-SOLIDPrinciple",
+      "ColorIndex": 0
+    },
+    "f6084f32-0b94-40a0-ad2f-a10af20ba933": {
+      "ProjectGuid": "f6084f32-0b94-40a0-ad2f-a10af20ba933",
+      "DisplayName": "WithoutOCP",
+      "ColorIndex": 1
+    },
+    "c7781ff6-0b39-4ec3-b8f2-8978bc245637": {
+      "ProjectGuid": "c7781ff6-0b39-4ec3-b8f2-8978bc245637",
+      "DisplayName": "WithOCP",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

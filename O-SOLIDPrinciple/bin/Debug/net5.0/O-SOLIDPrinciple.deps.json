@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "O-SOLIDPrinciple/1.0.0": {
+        "dependencies": {
+          "WithOCP": "1.0.0",
+          "WithoutOCP": "1.0.0"
+        },
+        "runtime": {
+          "O-SOLIDPrinciple.dll": {}
+        }
+      },
+      "WithOCP/1.0.0": {
+        "runtime": {
+          "WithOCP.dll": {}
+        }
+      },
+      "WithoutOCP/1.0.0": {
+        "runtime": {
+          "WithoutOCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "O-SOLIDPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WithOCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WithoutOCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
