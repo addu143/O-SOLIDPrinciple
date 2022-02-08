@@ -1,0 +1,12 @@
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\bin\Debug\net5.0\WithOCP.deps.json
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\bin\Debug\net5.0\WithOCP.dll
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\bin\Debug\net5.0\ref\WithOCP.dll
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\bin\Debug\net5.0\WithOCP.pdb
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.csproj.AssemblyReference.cache
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.AssemblyInfoInputs.cache
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.AssemblyInfo.cs
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.dll
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\ref\WithOCP.dll
+D:\projects\GitHub\SOLID-Principle\O-SOLIDPrinciple\WithOCP\obj\Debug\net5.0\WithOCP.pdb
